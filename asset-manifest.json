@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/expenseSmart/static/css/main.2f178a11.css",
+    "main.js": "/expenseSmart/static/js/main.d031deb8.js",
+    "static/media/pxfuel.jpg": "/expenseSmart/static/media/pxfuel.75a8c3b9d4b2b5ef3925.jpg",
+    "index.html": "/expenseSmart/index.html",
+    "main.2f178a11.css.map": "/expenseSmart/static/css/main.2f178a11.css.map",
+    "main.d031deb8.js.map": "/expenseSmart/static/js/main.d031deb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f178a11.css",
+    "static/js/main.d031deb8.js"
+  ]
+}
